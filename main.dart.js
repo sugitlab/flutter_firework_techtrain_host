@@ -31864,7 +31864,7 @@ if(q<r){l=k.mz(q)
 if(s.$2(a,l)>0){C.b.m(k.b,b,l)
 b=q}}C.b.m(k.b,b,a)}}
 F.xY.prototype={
-X:function(a,b){return new S.pz(C.vF,"Flutter Demo",X.a4f(C.a4),null)}}
+X:function(a,b){return new S.pz(C.vF,"\u304a\u76c6de\u82b1\u706b",X.a4f(C.a4),null)}}
 F.xZ.prototype={
 X:function(a,b){var s=null
 return new M.qG(M.Ze(s,new R.wW(10,3,new O.wu(),s),s,C.js,s,s,b.aq(t.l).f.a.a),s)}}
